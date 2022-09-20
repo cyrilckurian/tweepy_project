@@ -7,12 +7,9 @@ Thatbot is a Twitter bot for,
 
 ## Team members
 1. [Cyril C Kurian ](https://github.com/cyrilckurian)
-2. [Jaison T Paulose](https://github.com/Go4me)
-3. [Aswathy S ](https://github.com/Aswathys-28)
-## Team Id
-BFH/recDQJpstZfUmx5R9/2021.
-## Link to product walkthrough
-[link to video]
+
+
+
 ## How it Works ?
 1. When tagged with '#helloworld'.
 - replies ('#hellowworld' backs to you).
