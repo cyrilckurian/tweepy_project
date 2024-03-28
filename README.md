@@ -1,4 +1,4 @@
-# Project Name
+# Thatbot
 Thatbot is a Twitter bot for,
 
 1. Replying a text when tagged. 
